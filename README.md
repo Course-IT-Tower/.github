@@ -1,6 +1,3 @@
-# .github
-<div align="center">
-
 # 🏰 **Course IT Tower**
 ### _A sua torre do conhecimento online!_  
 👨‍💻 Desenvolvido por **Lucas Siqueira Torres** e **Gabriel Siqueira Torres**
@@ -11,7 +8,6 @@
 ![License](https://img.shields.io/badge/Licença-Educacional-blue)
 ![Build](https://img.shields.io/badge/Build-Passing-brightgreen)
 
-</div>
 
 ---
 
